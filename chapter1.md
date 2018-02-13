@@ -1,6 +1,8 @@
-# First Chapter
+# 机器学习（一）贝叶斯判别式
 
-吗你看看了；
+**2018/2/13**
+
+**by ChenjingDing**
 
 
 
