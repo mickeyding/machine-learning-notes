@@ -44,8 +44,8 @@ $$p(x,C_k) = p(x|C_k)*P(C_k) = P(C_k|x)p(x)$$;
 
 $$C$$是离散随机变量，表达式中采用的是概率。
 
-> 具体参考Christopher M. Bishop，Pattern Recognition and Machine Learning，Springer, 2006 1.2.1节。
-
+> 具体参考Christopher M. Bishop，Pattern Recognition and Machine Learning，Springer, 2006 1.2.1节。
+>
 > 在第二节4.3**生成模型和判别模型的比较**中再来比较条件概率和后验概率。
 
 ### 二.贝叶斯判别式最佳决策准测的推导
